@@ -116,8 +116,8 @@ function addItem(name, index){ // Create Person HTML elements
         names.splice(index, 1);
         pushArray();
     })
-    button.innerText = "Remove Person";
-    button.className = "btn btn-danger";
+    button.innerText = "Remove";
+    button.className = "btn btn-outline-danger btn-sm";
     container.appendChild(button);
 
     itemContainer.appendChild(document.createElement("hr"));

@@ -1,3 +1,4 @@
+
 .separate-top{
     margin-top: 15px;
 }
@@ -14,12 +15,6 @@
 .flex{
     display: flex;
     padding: 5px;
-}
-
-.slider{
-    width: 300px;
-    height: 25px;
-    opacity: 0.7;
 }
 
 .padding{
@@ -41,3 +36,12 @@
 .separate-bottom{
     margin-bottom: 60px;
 }
+
+.slider{
+    width: 300px;
+    height: 25px;
+}
+
+.slider[type="range"] {
+    accent-color: rgb(255, 80, 80);
+  }
