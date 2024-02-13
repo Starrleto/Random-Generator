@@ -1,0 +1,43 @@
+.separate-top{
+    margin-top: 15px;
+}
+
+.separate-big{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.separate-side{
+    margin-right: 15px;
+}
+
+.flex{
+    display: flex;
+    padding: 5px;
+}
+
+.slider{
+    width: 300px;
+    height: 25px;
+    opacity: 0.7;
+}
+
+.padding{
+    padding: 20px;
+}
+
+.move{
+    padding: 60px;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.header{
+    text-align: center;
+}
+
+.separate-bottom{
+    margin-bottom: 60px;
+}
